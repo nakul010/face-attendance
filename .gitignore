@@ -1,0 +1,12 @@
+# Environments
+.venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Pycharm
+.idea
+
+# Dataset
+dataset/image/workers/
+dataset/video/
